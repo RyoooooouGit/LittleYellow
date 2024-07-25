@@ -1,3 +1,0 @@
-﻿  Train.c
-C:\Users\Ryoooooou\Desktop\FDU\Program Design\Lab\PJ2Handin_22302010011黄宸一\Scr\Train\Train.c(96,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  Train.vcxproj -> C:\Users\Ryoooooou\Desktop\FDU\Program Design\Lab\PJ2Handin_22302010011黄宸一\Scr\Train\x64\Debug\Train.exe

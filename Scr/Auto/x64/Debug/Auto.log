@@ -1,4 +1,0 @@
-﻿  Auto.c
-C:\Users\Ryoooooou\Desktop\FDU\Program Design\Lab\PJ2Handin_22302010011黄宸一\Scr\Auto\Auto.c(1,1): warning C4828: 文件包含在偏移 0x953 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-C:\Users\Ryoooooou\Desktop\FDU\Program Design\Lab\PJ2Handin_22302010011黄宸一\Scr\Auto\Auto.c(98,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  Auto.vcxproj -> C:\Users\Ryoooooou\Desktop\FDU\Program Design\Lab\PJ2Handin_22302010011黄宸一\Scr\Auto\x64\Debug\Auto.exe

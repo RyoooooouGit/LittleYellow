@@ -1,0 +1,3 @@
+﻿  Auto_with_GUI.c
+C:\Users\Ryoooooou\Desktop\FDU\Program Design\Lab\PJ2Handin_22302010011黄宸一\Scr\Auto_with_GUI\Auto_with_GUI.c(239,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Auto_with_GUI.vcxproj -> C:\Users\Ryoooooou\Desktop\FDU\Program Design\Lab\PJ2Handin_22302010011黄宸一\Scr\Auto_with_GUI\x64\Debug\Auto_with_GUI.exe

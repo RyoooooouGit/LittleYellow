@@ -1,0 +1,4 @@
+﻿  PJ1.c
+C:\Users\Ryoooooou\Desktop\FDU\Program Design\Lab\PJ1Handin_22302010011黄宸一\Src\PJ1.c(143,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Ryoooooou\Desktop\FDU\Program Design\Lab\PJ1Handin_22302010011黄宸一\Src\PJ1.c(142,15): warning C4101: “i”: 未引用的局部变量
+  Mid-Term PJ.vcxproj -> C:\Users\Ryoooooou\Desktop\FDU\Program Design\Lab\PJ1Handin_22302010011黄宸一\Src\x64\Debug\Mid-Term PJ.exe
